@@ -1,0 +1,60 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+   background-image: url(./asset/pexels-jan-van-der-wolf-19130897.jpg); 
+background-size: cover;
+background-repeat: no-repeat;
+
+}
+.anu{
+     border:2px solid yellow; 
+        background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);;
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+margin-left: 430px;
+margin-top: 200px;
+    padding-top: 90px;
+padding-left: 100px;
+}
+.anushka{
+    padding-bottom: 40px;
+    margin-left: 40px;
+}
+
+
+input{
+margin-top: 10px;
+margin-left: 15px;
+margin-bottom: 20px;
+border-color:pink;
+padding: 5px;
+width:100px;
+border-radius: 10px;
+
+
+}
+.button{
+    margin-left: 15px;
+    padding: 5px;
+    border:2px solid black;
+    border-radius: 10px;
+}
+button:hover{
+    border-color: yellow;
+    background-color:skyblue;
+}
+
+h1{
+    
+    color: black;
+}
+
+
+ input:hover{
+    background-color: aqua;
+    border-color:yellow;
+ }
